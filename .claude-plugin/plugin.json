@@ -1,0 +1,22 @@
+{
+  "name": "karrito",
+  "displayName": "Karrito",
+  "version": "0.1.0",
+  "description": "Work with your Karrito store from a conversation: catalog, orders, customers, inventory and reports, within your existing permissions. Sensitive changes need your approval on a Karrito page before they apply.",
+  "author": {
+    "name": "Karrito",
+    "url": "https://karrito.app"
+  },
+  "homepage": "https://karrito.app",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "store",
+    "catalog",
+    "orders",
+    "inventory"
+  ],
+  "defaultEnabled": false,
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

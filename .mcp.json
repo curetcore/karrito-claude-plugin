@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "karrito": {
+      "type": "http",
+      "url": "https://karrito.app/api/mcp"
+    }
+  }
+}
