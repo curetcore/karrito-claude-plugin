@@ -18,8 +18,9 @@ orders and customers, check inventory and read your store reports.
   scripts or packages.
 - Claude only sees stores your Karrito account can already manage. Your current role and plan
   still decide what is allowed.
-- Sensitive changes are never applied by Claude alone: Claude prepares the exact change, and you
-  approve it on a Karrito page before it is applied.
+- Changes are never applied silently: Claude prepares the exact change, shows it to you, and
+  applies it only after you confirm it in the conversation. Deleting a store is not available
+  through this connection.
 - It does not process payments and does not operate the point of sale.
 
 Privacy policy: <https://karrito.app/privacy> · Terms: <https://karrito.app/terms> ·

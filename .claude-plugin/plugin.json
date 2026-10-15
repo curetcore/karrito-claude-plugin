@@ -2,7 +2,7 @@
   "name": "karrito",
   "displayName": "Karrito",
   "version": "0.1.0",
-  "description": "Work with your Karrito store from a conversation: catalog, orders, customers, inventory and reports, within your existing permissions. Sensitive changes need your approval on a Karrito page before they apply.",
+  "description": "Work with your Karrito store from a conversation: catalog, orders, customers, inventory and reports, within your existing permissions. Every change is shown to you first and applied only after you confirm it.",
   "author": {
     "name": "Karrito",
     "url": "https://karrito.app"
